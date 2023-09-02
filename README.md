@@ -1,0 +1,2 @@
+I led a collaborative team in developing a Hostel Management System using Java and MySQL. This comprehensive software streamlines hostel operations by efficiently managing room allocation, student records, and
+fee tracking. Key features include a user-friendly interface, real-time updates, and robust data management. Our project showcases skills in Java programming, database design, and system analysis.
